@@ -16,14 +16,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Soy Desarrollador Fullstack & Fan del Karate
+## Soy Desarrollador Fullstack 
 
 - 👨‍💻 Actualmente trabajo en sistemas de gestión deportiva, e-commerce y software personalizado para clubes y negocios.
 - 📚 Aprendiendo siempre sobre tecnologías frontend y backend, buscando mejores soluciones y nuevos frameworks.
 - 🥋 Creador de plataformas para competencias de karate, como K-SCORE-WKF (preinscripciones y gestión de eventos).
 - 💪🏼 Metas: Crear aplicaciones web más inteligentes e interactivas y nunca dejar de idear cosas nuevas.
 
----
+
 
 ##### Lenguajes que uso
 
