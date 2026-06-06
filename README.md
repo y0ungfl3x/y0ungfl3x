@@ -60,12 +60,19 @@ Soy **Desarrollador Fullstack** enfocado en el diseño y construcción de arquit
 </table>
 
 
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y0ungfl3x&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=3178C6&icon_color=3ECF8E&text_color=FFFFFF" alt="Estadísticas de y0ungfl3x" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0ungfl3x&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=3178C6&text_color=FFFFFF" alt="Lenguajes más usados" width="48%" />
+  <!-- Gráfico Lineal de Actividad (Alternativa Ultra Estable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=y0ungfl3x&theme=tokyonight&area=true&hide_border=true&bg_color=16161a&color=7f5af0" alt="Gráfico de Actividad de y0ungfl3x" width="100%" />
+</p>
+
+<p align="center">
+  <!-- Nueva API de Racha de Commits (Demolab - 100% Online) -->
+  <img src="https://streak-stats.demolab.com/?user=y0ungfl3x&theme=tokyonight&hide_border=true&background=16161a&title=7f5af0&sideNums=94a1b2&sideLabels=94a1b2&fire=ff8e3c&ring=7f5af0" alt="Racha de GitHub" width="49%" />
+
+  <!-- Tarjeta de Perfil Resumen (Servidor Alternativo) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y0ungfl3x&theme=tokyonight" alt="Detalles de Perfil y0ungfl3x" width="49%" />
 </p>
 
 ---
