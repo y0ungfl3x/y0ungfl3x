@@ -1,9 +1,5 @@
 <!-- LEMA VISUAL Y DIVERTIDO AL INICIO -->
-<p align="right">
-  <strong style="font-size:2em;font-family:monospace;background:#161b22;color:#e0115f;border-radius:7px;padding:8px 18px;display:inline-block;">
-    MODO SEXO 🍷🗿
-  </strong>
-</p>
+
 
 <!-- Botón visual para cambiar de idioma -->
 <p align="center">
