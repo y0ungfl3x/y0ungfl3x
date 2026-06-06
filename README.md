@@ -1,5 +1,3 @@
-
-
 <!-- Botón visual para cambiar de idioma -->
 <p align="center">
   <a href="#english-version">
@@ -98,20 +96,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat-square&logo=laravel&logoColor=F55247)
 ![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat-square&logo=nestjs&logoColor=E0234E)
 
----
 
-#### 🚀 Featured Projects
-
-- [K-SCORE-WKF](https://github.com/y0ungfl3x/K-SCORE-WKF): Karate competitions pre-inscription and management.
-- [POWERLAND](https://github.com/y0ungfl3x/POWERLAND): Gym management software (PHP/Blade).
-- [ASOBARINAS](https://github.com/y0ungfl3x/ASOBARINAS): State karate federation manager.
-- [KarateControl](https://github.com/y0ungfl3x/KarateControl): Full system for karate schools (students, payments, events).
-- [KURAI-TiendaDeRopa](https://github.com/y0ungfl3x/KURAI-TiendaDeRopa): Men's clothing e-commerce.
-- [K-Score-Wkf-Sqlite-EntornosLocales](https://github.com/y0ungfl3x/K-Score-Wkf-Sqlite-EntornosLocales): Local sports management with SQLite DB.
-- [GYM-DJGANGO](https://github.com/y0ungfl3x/GYM-DJGANGO): Gym platform built with Django.
-- [BlackJack](https://github.com/y0ungfl3x/BlackJack): Classic blackjack web game.
-
----
 
 #### 📫 Contact & Network
 
