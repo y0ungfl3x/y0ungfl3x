@@ -51,6 +51,9 @@ Soy **Desarrollador Fullstack** enfocado en el diseño y construcción de arquit
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Herramientas & DevOps</h4>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/VPS_Hosting-222222?style=for-the-badge&logo=linuxfoundation&logoColor=white" alt="VPS" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
