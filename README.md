@@ -1,4 +1,3 @@
-<!-- LEMA VISUAL Y DIVERTIDO AL INICIO -->
 
 
 <!-- Botón visual para cambiar de idioma -->
@@ -45,21 +44,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat-square&logo=laravel&logoColor=F55247)
 ![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat-square&logo=nestjs&logoColor=E0234E)
 
----
-
-#### 🚀 Proyectos destacados
-
-- [K-SCORE-WKF](https://github.com/y0ungfl3x/K-SCORE-WKF): Preinscripciones y gestión de competencias de karate.
-- [POWERLAND](https://github.com/y0ungfl3x/POWERLAND): Software de gestión para gimnasios (PHP/Blade).
-- [ASOBARINAS](https://github.com/y0ungfl3x/ASOBARINAS): Gestor de la federación de karate del estado Barinas.
-- [KarateControl](https://github.com/y0ungfl3x/KarateControl): Sistema integral para academias de karate (alumnos, pagos, eventos).
-- [KURAI-TiendaDeRopa](https://github.com/y0ungfl3x/KURAI-TiendaDeRopa): E-commerce para moda masculina.
-- [K-Score-Wkf-Sqlite-EntornosLocales](https://github.com/y0ungfl3x/K-Score-Wkf-Sqlite-EntornosLocales): Gestión deportiva local con base de datos SQLite.
-- [GYM-DJGANGO](https://github.com/y0ungfl3x/GYM-DJGANGO): Plataforma de gimnasio basada en Django.
-- [BlackJack](https://github.com/y0ungfl3x/BlackJack): Juego clásico de blackjack web.
-
----
-
 #### 📫 Contacto y redes
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](robertcardenas7777@gmail.com)
@@ -69,7 +53,6 @@
 
 
 
----
 
 <!-- English version below -->
 <p align="center" id="english-version">
