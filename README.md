@@ -5,103 +5,87 @@
   </a>
 </p>
 
-### ¡Hola 👋! Soy [y0ungfl3x](https://github.com/y0ungfl3x)
+# ¡Hola 👋! Soy Robert Cárdenas (y0ungfl3x)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<p align="left">
+  <a href="https://linkedin.com/in/robert-cardenas-708016371/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:robertcardenas7777@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-## Soy Desarrollador Fullstack 
+## 🚀 Sobre Mí
 
-- 👨‍💻 Actualmente trabajo en sistemas de gestión deportiva, e-commerce y software personalizado para clubes y negocios.
-- 📚 Aprendiendo siempre sobre tecnologías frontend y backend, buscando mejores soluciones y nuevos frameworks.
-- 🥋 Creador de plataformas para competencias de karate, como K-SCORE-WKF (preinscripciones y gestión de eventos).
-- 💪🏼 Metas: Crear aplicaciones web más inteligentes e interactivas y nunca dejar de idear cosas nuevas.
+Soy **Desarrollador Fullstack** enfocado en el diseño y construcción de arquitecturas web robustas, escalables y eficientes. Me especializo en transformar ideas complejas en productos digitales de alto rendimiento.
 
-
-
-##### Lenguajes que uso
-
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
-
-##### Algunas de las tecnologías que manejo
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat-square&logo=laravel&logoColor=F55247)
-![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat-square&logo=nestjs&logoColor=E0234E)
-
-#### 📫 Contacto y redes
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](robertcardenas7777@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-cardenas-708016371/)
+- 💻 **Enfoque Actual:** Desarrollo de plataformas SaaS, sistemas de gestión deportiva avanzada y soluciones automatizadas para optimizar flujos comerciales.
+- 🎓 **Formación:** Estudiante de Ingeniería Informática, profundizando constantemente en patrones de diseño y optimización de software.
+- ⚡ **Automatización:** Apasionado por la integración de flujos ágiles, APIs de comunicación e inteligencia artificial aplicadas al desarrollo de software diario.
 
 ---
 
+## 🛠️ Stack Tecnológico
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Backend & Arquitectura</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend & UI</h4>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💾 Bases de Datos</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Herramientas & DevOps</h4>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+    </td>
+  </tr>
+</table>
 
 
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=y0ungfl3x&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=3178C6&icon_color=3ECF8E&text_color=FFFFFF" alt="Estadísticas de y0ungfl3x" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0ungfl3x&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=3178C6&text_color=FFFFFF" alt="Lenguajes más usados" width="48%" />
+</p>
+
+---
 
 <!-- English version below -->
 <p align="center" id="english-version">
-  <a href="#hola--soy-y0ungfl3xhttpsgithubcomy0ungfl3x">
+  <a href="#hola--soy-robert-cárdenas-y0ungfl3x">
     <img src="https://img.shields.io/badge/Switch+to+Spanish-222222?style=for-the-badge&logo=github&logoColor=white" alt="Switch to Spanish" />
   </a>
 </p>
 
-### Hi there 👋 I'm [y0ungfl3x!](https://github.com/y0ungfl3x)
+# Hi there 👋 I'm Robert Cárdenas (y0ungfl3x)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+## 🚀 About Me
 
-## I'm a Fullstack Developer & Karate Enthusiast
+I am a **Fullstack Developer** focused on designing and building robust, scalable, and efficient web architectures. I specialize in turning complex ideas into high-performance digital products.
 
-- 👨‍💻 I’m currently working on sports management systems, e-commerce and custom software for clubs and businesses.
-- 📚 Learning everything about Frontend and Backend technologies, always looking for better solutions and new frameworks.
-- 🥋 I build platforms for karate competitions, like [K-SCORE-WKF](https://github.com/y0ungfl3x/K-SCORE-WKF) (pre-inscriptions and event management).
-- 💪🏼 Future Goals: Create smarter, more interactive web applications and never stop creating new ideas!
-
----
-
-##### Languages I use
-
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
-
-##### Some of the technologies I have worked with
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-222222?style=flat-square&logo=laravel&logoColor=F55247)
-![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat-square&logo=nestjs&logoColor=E0234E)
-
-
-
-#### 📫 Contact & Network
-
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](robertcardenas7777@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-cardenas-708016371/)
+- 💻 **Current Focus:** Development of SaaS platforms, advanced sports management systems, and automated solutions to optimize business workflows.
+- 🎓 **Education:** Informatics Engineering student, constantly deep-diving into software design patterns and performance optimization.
+- ⚡ **Automation:** Passionate about integrating agile workflows, communication APIs, and Artificial Intelligence applied to daily software engineering.
 
 ---
 
